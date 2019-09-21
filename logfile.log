@@ -1,0 +1,600 @@
+2017-04-05 20:16:54,804 INFO  [Log] **************************************************************************************** 
+2017-04-05 20:16:54,804 INFO  [Log] **************************************************************************************** 
+2017-04-05 20:16:54,804 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-05 20:16:54,804 INFO  [Log] **************************************************************************************** 
+2017-04-05 20:16:54,804 INFO  [Log] **************************************************************************************** 
+2017-04-05 20:16:55,991 INFO  [Log]  Excel sheet opened 
+2017-04-05 20:17:07,799 INFO  [Log] New driver instantiated 
+2017-04-05 20:17:07,815 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-05 20:17:13,526 INFO  [Log] Web application launched 
+2017-04-05 20:17:13,527 WARN  [Log] hello 
+2017-04-05 20:17:13,909 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-05 20:17:13,909 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-05 20:17:14,123 INFO  [Log] User entered the username in text box  
+2017-04-05 20:17:14,296 INFO  [Log] User entered the password in text box  
+2017-04-05 20:17:24,397 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-05 20:17:31,831 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-05 20:17:31,866 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-05 20:17:31,887 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-05 20:17:32,463 INFO  [Log] User inserting a text in Title field 
+2017-04-05 20:17:32,749 INFO  [Log] User inserting a text in Description  field 
+2017-04-05 20:17:49,985 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-05 20:17:50,001 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-05 20:17:58,753 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-05 20:17:58,753 INFO  [Log] Testcases are passed 
+2017-04-05 20:17:58,753 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-05 20:18:01,753 INFO  [Log] Browser closed 
+2017-04-06 12:54:02,514 INFO  [Log] **************************************************************************************** 
+2017-04-06 12:54:02,529 INFO  [Log] **************************************************************************************** 
+2017-04-06 12:54:02,529 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 12:54:02,529 INFO  [Log] **************************************************************************************** 
+2017-04-06 12:54:02,529 INFO  [Log] **************************************************************************************** 
+2017-04-06 12:54:03,264 INFO  [Log]  Excel sheet opened 
+2017-04-06 12:54:10,610 INFO  [Log] New driver instantiated 
+2017-04-06 12:54:10,626 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 12:54:15,737 INFO  [Log] Web application launched 
+2017-04-06 12:54:15,737 WARN  [Log] hello 
+2017-04-06 12:54:16,070 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 12:54:16,070 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 12:54:16,281 INFO  [Log] User entered the username in text box  
+2017-04-06 12:54:16,410 INFO  [Log] User entered the password in text box  
+2017-04-06 12:58:25,694 INFO  [Log] **************************************************************************************** 
+2017-04-06 12:58:25,694 INFO  [Log] **************************************************************************************** 
+2017-04-06 12:58:25,694 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 12:58:25,694 INFO  [Log] **************************************************************************************** 
+2017-04-06 12:58:25,694 INFO  [Log] **************************************************************************************** 
+2017-04-06 12:58:26,319 INFO  [Log]  Excel sheet opened 
+2017-04-06 12:58:34,510 INFO  [Log] New driver instantiated 
+2017-04-06 12:58:34,517 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 12:58:40,305 INFO  [Log] Web application launched 
+2017-04-06 12:58:40,306 WARN  [Log] hello 
+2017-04-06 12:58:40,661 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 12:58:40,661 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 12:58:40,885 INFO  [Log] User entered the username in text box  
+2017-04-06 12:58:41,054 INFO  [Log] User entered the password in text box  
+2017-04-06 13:00:54,872 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:00:54,872 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:00:54,872 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 13:00:54,872 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:00:54,872 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:00:55,482 INFO  [Log]  Excel sheet opened 
+2017-04-06 13:01:00,727 INFO  [Log] New driver instantiated 
+2017-04-06 13:01:00,733 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 13:01:05,573 INFO  [Log] Web application launched 
+2017-04-06 13:01:05,573 WARN  [Log] hello 
+2017-04-06 13:01:05,842 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 13:01:05,843 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 13:01:05,988 INFO  [Log] User entered the username in text box  
+2017-04-06 13:01:06,163 INFO  [Log] User entered the password in text box  
+2017-04-06 13:02:01,885 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:02:01,885 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:02:01,885 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 13:02:01,885 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:02:01,885 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:02:02,510 INFO  [Log]  Excel sheet opened 
+2017-04-06 13:02:07,221 INFO  [Log] New driver instantiated 
+2017-04-06 13:02:07,232 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 13:02:12,450 INFO  [Log] Web application launched 
+2017-04-06 13:02:12,450 WARN  [Log] hello 
+2017-04-06 13:02:12,740 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 13:02:12,740 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 13:02:12,918 INFO  [Log] User entered the username in text box  
+2017-04-06 13:02:13,087 INFO  [Log] User entered the password in text box  
+2017-04-06 13:02:20,867 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-06 13:03:24,696 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:03:24,696 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:03:24,696 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 13:03:24,696 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:03:24,696 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:03:25,305 INFO  [Log]  Excel sheet opened 
+2017-04-06 13:03:29,988 INFO  [Log] New driver instantiated 
+2017-04-06 13:03:30,002 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 13:03:35,640 INFO  [Log] Web application launched 
+2017-04-06 13:03:35,641 WARN  [Log] hello 
+2017-04-06 13:03:35,885 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 13:03:35,885 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 13:03:36,070 INFO  [Log] User entered the username in text box  
+2017-04-06 13:03:36,243 INFO  [Log] User entered the password in text box  
+2017-04-06 13:03:43,789 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-06 13:03:50,846 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-06 13:03:50,870 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-06 13:03:50,899 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-06 13:03:51,086 INFO  [Log] User inserting a text in Title field 
+2017-04-06 13:03:51,397 INFO  [Log] User inserting a text in Description  field 
+2017-04-06 13:04:31,677 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:04:31,677 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:04:31,677 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 13:04:31,677 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:04:31,677 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:04:32,271 INFO  [Log]  Excel sheet opened 
+2017-04-06 13:04:35,930 INFO  [Log] New driver instantiated 
+2017-04-06 13:04:35,940 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 13:04:40,666 INFO  [Log] Web application launched 
+2017-04-06 13:04:40,666 WARN  [Log] hello 
+2017-04-06 13:04:40,928 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 13:04:40,928 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 13:04:41,237 INFO  [Log] User entered the username in text box  
+2017-04-06 13:04:41,443 INFO  [Log] User entered the password in text box  
+2017-04-06 13:04:47,578 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-06 13:04:54,434 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-06 13:04:54,457 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-06 13:04:54,486 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-06 13:04:54,670 INFO  [Log] User inserting a text in Title field 
+2017-04-06 13:04:54,986 INFO  [Log] User inserting a text in Description  field 
+2017-04-06 13:05:10,620 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-06 13:05:10,638 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-06 13:05:17,588 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-06 13:05:17,588 INFO  [Log] Testcases are passed 
+2017-04-06 13:05:17,589 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 13:05:20,589 INFO  [Log] Browser closed 
+2017-04-06 13:16:06,530 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:16:06,530 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:16:06,530 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 13:16:06,530 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:16:06,530 INFO  [Log] **************************************************************************************** 
+2017-04-06 13:16:07,202 INFO  [Log]  Excel sheet opened 
+2017-04-06 13:16:12,736 INFO  [Log] New driver instantiated 
+2017-04-06 13:16:12,748 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 13:16:21,315 INFO  [Log] Web application launched 
+2017-04-06 13:16:21,315 WARN  [Log] hello 
+2017-04-06 13:16:21,624 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 13:16:21,624 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 13:16:21,929 INFO  [Log] User entered the username in text box  
+2017-04-06 13:16:22,216 INFO  [Log] User entered the password in text box  
+2017-04-06 13:16:29,788 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-06 13:16:36,743 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-06 13:16:36,765 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-06 13:16:36,790 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-06 13:16:36,933 INFO  [Log] User inserting a text in Title field 
+2017-04-06 13:16:37,264 INFO  [Log] User inserting a text in Description  field 
+2017-04-06 13:16:53,566 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-06 13:16:53,585 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-06 13:17:02,462 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-06 13:17:02,462 INFO  [Log] Testcases are passed 
+2017-04-06 13:17:02,462 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 13:17:05,462 INFO  [Log] Browser closed 
+2017-04-06 15:41:20,009 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:41:20,021 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:41:20,021 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 15:41:20,021 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:41:20,021 INFO  [Log] **************************************************************************************** 
+2017-04-06 15:41:21,700 INFO  [Log]  Excel sheet opened 
+2017-04-06 15:41:38,920 INFO  [Log] New driver instantiated 
+2017-04-06 15:41:38,931 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 15:41:46,354 INFO  [Log] Web application launched 
+2017-04-06 15:41:46,354 WARN  [Log] hello 
+2017-04-06 15:41:47,241 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 15:41:47,241 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 15:41:49,671 INFO  [Log] User entered the username in text box  
+2017-04-06 15:41:50,200 INFO  [Log] User entered the password in text box  
+2017-04-06 15:41:50,418 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-06 15:42:01,294 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-06 15:42:01,319 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-06 15:42:01,390 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-06 15:42:01,833 INFO  [Log] User inserting a text in Title field 
+2017-04-06 15:42:02,089 INFO  [Log] User inserting a text in Description  field 
+2017-04-06 15:42:20,513 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-06 15:42:20,531 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-06 15:42:30,665 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-06 15:42:30,665 INFO  [Log] Testcases are passed 
+2017-04-06 15:42:30,665 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 15:42:33,665 INFO  [Log] Browser closed 
+2017-04-06 16:00:11,314 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:00:11,324 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:00:11,324 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:00:11,324 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:00:11,324 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:00:12,463 INFO  [Log]  Excel sheet opened 
+2017-04-06 16:00:25,230 INFO  [Log] New driver instantiated 
+2017-04-06 16:00:25,259 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:00:31,071 INFO  [Log] Web application launched 
+2017-04-06 16:00:31,071 WARN  [Log] hello 
+2017-04-06 16:00:31,446 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 16:00:31,446 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 16:00:31,947 INFO  [Log] User entered the username in text box  
+2017-04-06 16:00:32,202 INFO  [Log] User entered the password in text box  
+2017-04-06 16:00:39,747 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-06 16:00:46,828 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-06 16:00:46,852 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-06 16:00:46,886 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-06 16:00:47,280 INFO  [Log] User inserting a text in Title field 
+2017-04-06 16:00:47,641 INFO  [Log] User inserting a text in Description  field 
+2017-04-06 16:01:06,524 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-06 16:01:06,543 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-06 16:01:15,191 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-06 16:01:15,191 INFO  [Log] Testcases are passed 
+2017-04-06 16:01:15,191 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:01:18,192 INFO  [Log] Browser closed 
+2017-04-06 16:18:21,749 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:18:21,750 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:18:21,750 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:18:21,750 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:18:21,750 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:18:22,692 INFO  [Log]  Excel sheet opened 
+2017-04-06 16:18:30,071 INFO  [Log] New driver instantiated 
+2017-04-06 16:18:30,170 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:18:36,997 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 16:18:36,998 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 16:22:35,941 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:22:35,943 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:22:35,943 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:22:35,943 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:22:35,943 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:22:37,294 INFO  [Log]  Excel sheet opened 
+2017-04-06 16:22:45,666 INFO  [Log] New driver instantiated 
+2017-04-06 16:22:45,677 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:22:50,450 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 16:22:50,450 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 16:27:22,507 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:27:22,545 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:27:22,545 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:27:22,545 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:27:22,546 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:27:27,208 INFO  [Log]  Excel sheet opened 
+2017-04-06 16:27:37,636 INFO  [Log] New driver instantiated 
+2017-04-06 16:27:37,657 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:27:43,948 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 16:27:43,948 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 16:36:02,331 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:36:02,332 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:36:02,332 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:36:02,332 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:36:02,333 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:36:03,049 INFO  [Log]  Excel sheet opened 
+2017-04-06 16:36:09,482 INFO  [Log] New driver instantiated 
+2017-04-06 16:36:09,500 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:36:16,432 INFO  [Log] Web application launched 
+2017-04-06 16:36:16,432 WARN  [Log] hello 
+2017-04-06 16:36:16,493 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 16:36:16,494 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 16:36:16,810 INFO  [Log] User entered the username in text box  
+2017-04-06 16:36:17,057 INFO  [Log] User entered the password in text box  
+2017-04-06 16:36:25,486 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-06 16:36:32,713 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-06 16:36:32,742 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-06 16:36:32,774 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-06 16:36:33,158 INFO  [Log] User inserting a text in Title field 
+2017-04-06 16:36:33,347 INFO  [Log] User inserting a text in Description  field 
+2017-04-06 16:36:50,675 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-06 16:36:50,691 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-06 16:36:58,912 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-06 16:36:58,912 INFO  [Log] Testcases are passed 
+2017-04-06 16:36:58,912 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:37:01,912 INFO  [Log] Browser closed 
+2017-04-06 16:45:39,067 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:45:39,068 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:45:39,068 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-06 16:45:39,068 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:45:39,068 INFO  [Log] **************************************************************************************** 
+2017-04-06 16:45:39,756 INFO  [Log]  Excel sheet opened 
+2017-04-06 16:45:44,622 INFO  [Log] New driver instantiated 
+2017-04-06 16:45:44,631 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-06 16:45:44,633 INFO  [Log] Web application launched 
+2017-04-06 16:45:44,633 WARN  [Log] hello 
+2017-04-06 16:45:49,143 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-06 16:45:49,144 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-06 16:45:49,330 INFO  [Log] User entered the username in text box  
+2017-04-06 16:45:49,488 INFO  [Log] User entered the password in text box  
+2017-04-06 16:45:57,235 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-06 16:46:04,375 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-06 16:46:04,410 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-06 16:46:04,439 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-06 16:46:04,595 INFO  [Log] User inserting a text in Title field 
+2017-04-06 16:46:04,828 INFO  [Log] User inserting a text in Description  field 
+2017-04-06 16:46:22,190 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-06 16:46:22,205 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-06 16:46:30,139 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-06 16:46:30,139 INFO  [Log] Testcases are passed 
+2017-04-06 16:46:30,139 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-06 16:46:33,140 INFO  [Log] Browser closed 
+2017-04-07 11:20:29,344 INFO  [Log] **************************************************************************************** 
+2017-04-07 11:20:29,360 INFO  [Log] **************************************************************************************** 
+2017-04-07 11:20:29,360 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-07 11:20:29,360 INFO  [Log] **************************************************************************************** 
+2017-04-07 11:20:29,360 INFO  [Log] **************************************************************************************** 
+2017-04-07 11:20:30,157 INFO  [Log]  Excel sheet opened 
+2017-04-07 11:20:45,254 INFO  [Log] New driver instantiated 
+2017-04-07 11:20:45,270 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-07 11:20:45,270 INFO  [Log] Web application launched 
+2017-04-07 11:20:45,270 WARN  [Log] hello 
+2017-04-07 11:20:51,074 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-07 11:20:51,074 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-07 11:20:51,441 INFO  [Log] User entered the username in text box  
+2017-04-07 11:20:51,709 INFO  [Log] User entered the password in text box  
+2017-04-07 11:20:58,476 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-07 11:21:06,536 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-07 11:21:06,575 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-07 11:21:06,604 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-07 11:21:06,808 INFO  [Log] User inserting a text in Title field 
+2017-04-07 11:21:07,032 INFO  [Log] User inserting a text in Description  field 
+2017-04-07 11:21:23,603 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-07 11:21:23,620 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-07 11:21:33,564 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-07 11:21:33,564 INFO  [Log] Testcases are passed 
+2017-04-07 11:21:33,564 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-07 11:21:36,576 INFO  [Log] Browser closed 
+2017-04-07 18:17:44,133 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:17:44,133 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:17:44,134 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-07 18:17:44,134 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:17:44,134 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:17:44,806 INFO  [Log]  Excel sheet opened 
+2017-04-07 18:17:54,085 INFO  [Log] New driver instantiated 
+2017-04-07 18:17:54,103 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-07 18:17:54,103 INFO  [Log] Web application launched 
+2017-04-07 18:17:54,104 WARN  [Log] hello 
+2017-04-07 18:18:01,338 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-07 18:18:01,338 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-07 18:18:01,883 INFO  [Log] User entered the username in text box  
+2017-04-07 18:18:02,200 INFO  [Log] User entered the password in text box  
+2017-04-07 18:18:08,702 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-07 18:18:15,970 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-07 18:18:16,004 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-07 18:18:16,061 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-07 18:18:16,247 INFO  [Log] User inserting a text in Title field 
+2017-04-07 18:18:16,608 INFO  [Log] User inserting a text in Description  field 
+2017-04-07 18:18:32,947 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-07 18:18:32,964 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-07 18:18:41,859 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-07 18:18:41,859 INFO  [Log] Testcases are passed 
+2017-04-07 18:18:41,859 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-07 18:18:44,866 INFO  [Log] Browser closed 
+2017-04-07 18:23:16,272 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:23:16,273 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:23:16,273 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-07 18:23:16,273 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:23:16,273 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:23:17,415 INFO  [Log]  Excel sheet opened 
+2017-04-07 18:23:23,106 INFO  [Log] New driver instantiated 
+2017-04-07 18:23:23,116 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-07 18:23:23,116 INFO  [Log] Web application launched 
+2017-04-07 18:23:23,116 WARN  [Log] hello 
+2017-04-07 18:23:28,723 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-07 18:23:28,724 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-07 18:23:28,925 INFO  [Log] User entered the username in text box  
+2017-04-07 18:23:29,063 INFO  [Log] User entered the password in text box  
+2017-04-07 18:23:35,048 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-07 18:23:42,574 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-07 18:23:42,602 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-07 18:23:42,634 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-07 18:23:42,841 INFO  [Log] User inserting a text in Title field 
+2017-04-07 18:23:43,032 INFO  [Log] User inserting a text in Description  field 
+2017-04-07 18:23:59,002 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-07 18:23:59,022 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-07 18:24:07,150 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-07 18:24:07,150 INFO  [Log] Testcases are passed 
+2017-04-07 18:24:07,150 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-07 18:24:10,168 INFO  [Log] Browser closed 
+2017-04-07 18:45:12,659 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:45:12,690 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:45:12,690 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-07 18:45:12,690 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:45:12,690 INFO  [Log] **************************************************************************************** 
+2017-04-07 18:45:13,392 INFO  [Log]  Excel sheet opened 
+2017-04-07 18:45:20,191 INFO  [Log] New driver instantiated 
+2017-04-07 18:45:20,206 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-07 18:45:20,206 INFO  [Log] Web application launched 
+2017-04-07 18:45:20,206 WARN  [Log] hello 
+2017-04-07 18:45:24,443 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-07 18:45:24,444 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-07 18:45:24,652 INFO  [Log] User entered the username in text box  
+2017-04-07 18:45:24,790 INFO  [Log] User entered the password in text box  
+2017-04-07 18:45:30,955 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-07 18:45:38,155 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-07 18:45:38,186 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-07 18:45:38,218 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-07 18:45:38,367 INFO  [Log] User inserting a text in Title field 
+2017-04-07 18:45:38,611 INFO  [Log] User inserting a text in Description  field 
+2017-04-07 18:45:55,897 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-07 18:45:55,913 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-07 18:46:04,057 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-07 18:46:04,057 INFO  [Log] Testcases are passed 
+2017-04-07 18:46:04,057 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-07 18:46:07,068 INFO  [Log] Browser closed 
+2017-04-10 11:27:37,209 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:27:37,221 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:27:37,222 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 11:27:37,222 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:27:37,222 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:27:37,222 INFO  [Log]  Excel sheet opened 
+2017-04-10 11:27:47,704 INFO  [Log] New driver instantiated 
+2017-04-10 11:27:47,731 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 11:27:47,731 INFO  [Log] Web application launched 
+2017-04-10 11:27:47,731 WARN  [Log] hello 
+2017-04-10 11:28:03,050 INFO  [Log] Browser closed 
+2017-04-10 11:31:03,619 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:31:03,620 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:31:03,620 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 11:31:03,620 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:31:03,620 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:31:03,620 INFO  [Log]  Excel sheet opened 
+2017-04-10 11:31:09,778 INFO  [Log] New driver instantiated 
+2017-04-10 11:31:09,790 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 11:31:09,790 INFO  [Log] Web application launched 
+2017-04-10 11:31:09,790 WARN  [Log] hello 
+2017-04-10 11:31:19,064 INFO  [Log] Browser closed 
+2017-04-10 11:34:02,920 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:34:02,940 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:34:02,941 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 11:34:02,941 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:34:02,941 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:34:02,941 INFO  [Log]  Excel sheet opened 
+2017-04-10 11:34:11,250 INFO  [Log] New driver instantiated 
+2017-04-10 11:34:11,262 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 11:34:11,262 INFO  [Log] Web application launched 
+2017-04-10 11:34:11,262 WARN  [Log] hello 
+2017-04-10 11:34:23,750 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-10 11:34:23,774 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-10 11:34:24,090 INFO  [Log] User entered the username in text box  
+2017-04-10 11:34:24,381 INFO  [Log] User entered the password in text box  
+2017-04-10 11:34:32,091 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-10 11:34:41,414 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-10 11:34:41,446 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-10 11:34:41,478 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-10 11:34:41,888 INFO  [Log] User inserting a text in Title field 
+2017-04-10 11:34:42,107 INFO  [Log] User inserting a text in Description  field 
+2017-04-10 11:34:47,647 INFO  [Log] Browser closed 
+2017-04-10 11:38:55,214 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:38:55,215 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:38:55,215 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 11:38:55,215 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:38:55,215 INFO  [Log] **************************************************************************************** 
+2017-04-10 11:38:55,215 INFO  [Log]  Excel sheet opened 
+2017-04-10 11:39:00,833 INFO  [Log] New driver instantiated 
+2017-04-10 11:39:00,844 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 11:39:00,844 INFO  [Log] Web application launched 
+2017-04-10 11:39:00,844 WARN  [Log] hello 
+2017-04-10 11:39:10,002 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-10 11:39:10,030 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-10 11:39:10,259 INFO  [Log] User entered the username in text box  
+2017-04-10 11:39:10,397 INFO  [Log] User entered the password in text box  
+2017-04-10 11:39:19,517 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-10 11:39:28,831 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-10 11:39:28,864 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-10 11:39:28,901 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-10 11:39:29,093 INFO  [Log] User inserting a text in Title field 
+2017-04-10 11:39:29,329 INFO  [Log] User inserting a text in Description  field 
+2017-04-10 11:39:57,222 INFO  [Log] Browser closed 
+2017-04-10 12:30:50,530 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:30:50,531 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:30:50,531 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 12:30:50,532 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:30:50,532 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:30:50,532 INFO  [Log]  Excel sheet opened 
+2017-04-10 12:31:04,818 INFO  [Log] New driver instantiated 
+2017-04-10 12:31:04,844 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 12:31:04,844 INFO  [Log] Web application launched 
+2017-04-10 12:31:04,844 WARN  [Log] hello 
+2017-04-10 12:31:19,954 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-10 12:31:20,000 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-10 12:31:20,598 INFO  [Log] User entered the username in text box  
+2017-04-10 12:31:20,841 INFO  [Log] User entered the password in text box  
+2017-04-10 12:31:28,680 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-10 12:31:37,948 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-10 12:31:37,975 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-10 12:31:38,006 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-10 12:31:38,509 INFO  [Log] User inserting a text in Title field 
+2017-04-10 12:31:38,858 INFO  [Log] User inserting a text in Description  field 
+2017-04-10 12:31:58,387 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-10 12:31:58,409 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-10 12:32:10,873 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-10 12:32:10,873 INFO  [Log] Testcases are passed 
+2017-04-10 12:32:10,873 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-10 12:32:13,874 INFO  [Log] Browser closed 
+2017-04-10 12:40:42,444 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:40:42,444 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:40:42,444 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 12:40:42,444 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:40:42,444 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:40:42,444 INFO  [Log]  Excel sheet opened 
+2017-04-10 12:40:48,855 INFO  [Log] New driver instantiated 
+2017-04-10 12:40:48,886 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 12:40:48,886 INFO  [Log] Web application launched 
+2017-04-10 12:40:48,886 WARN  [Log] hello 
+2017-04-10 12:40:59,038 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-10 12:40:59,057 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-10 12:40:59,301 INFO  [Log] User entered the username in text box  
+2017-04-10 12:40:59,438 INFO  [Log] User entered the password in text box  
+2017-04-10 12:41:06,922 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-10 12:41:16,071 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-10 12:41:16,115 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-10 12:41:16,153 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-10 12:41:16,455 INFO  [Log] User inserting a text in Title field 
+2017-04-10 12:41:16,676 INFO  [Log] User inserting a text in Description  field 
+2017-04-10 12:41:34,143 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-10 12:41:34,164 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-10 12:41:52,831 INFO  [Log] Browser closed 
+2017-04-10 12:44:57,097 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:44:57,098 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:44:57,098 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 12:44:57,098 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:44:57,098 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:44:57,098 INFO  [Log]  Excel sheet opened 
+2017-04-10 12:45:03,141 INFO  [Log] New driver instantiated 
+2017-04-10 12:45:03,150 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 12:45:03,150 INFO  [Log] Web application launched 
+2017-04-10 12:45:03,150 WARN  [Log] hello 
+2017-04-10 12:45:10,167 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-10 12:45:10,190 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-10 12:45:10,374 INFO  [Log] User entered the username in text box  
+2017-04-10 12:45:10,504 INFO  [Log] User entered the password in text box  
+2017-04-10 12:45:17,334 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-10 12:45:27,682 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-10 12:45:27,717 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-10 12:45:27,748 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-10 12:45:27,891 INFO  [Log] User inserting a text in Title field 
+2017-04-10 12:45:28,103 INFO  [Log] User inserting a text in Description  field 
+2017-04-10 12:45:45,065 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-10 12:45:45,081 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-10 12:45:53,191 INFO  [Log] Browser closed 
+2017-04-10 12:48:04,027 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:48:04,028 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:48:04,028 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 12:48:04,028 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:48:04,028 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:48:04,028 INFO  [Log]  Excel sheet opened 
+2017-04-10 12:48:09,597 INFO  [Log] New driver instantiated 
+2017-04-10 12:48:09,608 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 12:48:09,608 INFO  [Log] Web application launched 
+2017-04-10 12:48:09,608 WARN  [Log] hello 
+2017-04-10 12:48:15,793 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-10 12:48:15,820 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-10 12:48:16,081 INFO  [Log] User entered the username in text box  
+2017-04-10 12:48:16,235 INFO  [Log] User entered the password in text box  
+2017-04-10 12:48:23,448 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-10 12:48:32,301 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-10 12:48:32,337 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-10 12:48:32,369 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-10 12:48:32,539 INFO  [Log] User inserting a text in Title field 
+2017-04-10 12:48:32,751 INFO  [Log] User inserting a text in Description  field 
+2017-04-10 12:48:50,215 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-10 12:48:50,236 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-10 12:50:15,574 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:50:15,574 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:50:15,574 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 12:50:15,574 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:50:15,574 INFO  [Log] **************************************************************************************** 
+2017-04-10 12:50:15,574 INFO  [Log]  Excel sheet opened 
+2017-04-10 12:50:21,287 INFO  [Log] New driver instantiated 
+2017-04-10 12:50:21,298 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 12:50:21,298 INFO  [Log] Web application launched 
+2017-04-10 12:50:21,298 WARN  [Log] hello 
+2017-04-10 12:50:27,498 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-10 12:50:27,529 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-10 12:50:27,741 INFO  [Log] User entered the username in text box  
+2017-04-10 12:50:27,910 INFO  [Log] User entered the password in text box  
+2017-04-10 12:50:36,171 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-10 12:50:45,288 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-10 12:50:45,326 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-10 12:50:45,378 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-10 12:50:45,545 INFO  [Log] User inserting a text in Title field 
+2017-04-10 12:50:45,760 INFO  [Log] User inserting a text in Description  field 
+2017-04-10 12:51:03,209 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-10 12:51:03,228 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-10 12:51:50,919 INFO  [Log] Browser closed 
+2017-04-10 14:20:57,010 INFO  [Log] **************************************************************************************** 
+2017-04-10 14:20:57,038 INFO  [Log] **************************************************************************************** 
+2017-04-10 14:20:57,039 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Pronto_TestCase_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-04-10 14:20:57,039 INFO  [Log] **************************************************************************************** 
+2017-04-10 14:20:57,039 INFO  [Log] **************************************************************************************** 
+2017-04-10 14:20:57,039 INFO  [Log]  Excel sheet opened 
+2017-04-10 14:21:06,116 INFO  [Log] New driver instantiated 
+2017-04-10 14:21:06,126 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-04-10 14:21:06,126 INFO  [Log] Web application launched 
+2017-04-10 14:21:06,126 WARN  [Log] hello 
+2017-04-10 14:21:13,665 INFO  [Log] User picked from excel is from first row shrgupta 
+2017-04-10 14:21:13,695 INFO  [Log] User picked from excel is  from last row feb@2016 
+2017-04-10 14:21:14,004 INFO  [Log] User entered the username in text box  
+2017-04-10 14:21:14,164 INFO  [Log] User entered the password in text box  
+2017-04-10 14:21:21,277 INFO  [Log] User Submits or clicking the sing in buttom  
+2017-04-10 14:21:30,230 INFO  [Log] User click the Report New Problem from top menu 
+2017-04-10 14:21:30,262 INFO  [Log] User picked from excel is from 2nd row Test 
+2017-04-10 14:21:30,303 INFO  [Log] User picked from excel is from Secand row seventh columnPronto is not able to access  
+2017-04-10 14:21:30,562 INFO  [Log] User inserting a text in Title field 
+2017-04-10 14:21:30,800 INFO  [Log] User inserting a text in Description  field 
+2017-04-10 14:21:48,047 INFO  [Log] User picked from excel is from 2nd row TestPurpose 
+2017-04-10 14:21:48,068 INFO  [Log] User picked from excel is  from last row Problem in Hardaware 
+2017-04-10 14:21:56,782 INFO  [Log] Click action is perfomred on Log Out link 
+2017-04-10 14:21:56,782 INFO  [Log] Testcases are passed 
+2017-04-10 14:21:56,782 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-04-10 14:21:59,790 INFO  [Log] Browser closed 
